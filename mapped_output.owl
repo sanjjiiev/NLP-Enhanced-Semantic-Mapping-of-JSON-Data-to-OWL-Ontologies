@@ -1,0 +1,1704 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:pe="https://orbis-security.com/pe-malware-ontology#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample227">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>caller</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.2791739</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample278">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>inaddrarpa</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample62">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dead_hosts</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.47834373</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample205">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>statistics</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.48469657</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample126">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sections</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.9999998</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample20">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>configs</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.43639028</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample187">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>detections</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_file_feature"/>
+    <pe:similarityScore>0.42303807</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample258">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>src</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample64">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>flow_id</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.5645739</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample186">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>deduplicated_shots</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.2688614</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample164">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>uri</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample209">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>TempPath</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample72">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>keys</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.5025289</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample192">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sha512</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.22985101</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample238">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>files</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample195">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>behavior</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.5258135</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample251">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>arguments</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.29683393</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample116">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>from</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample170">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>target</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.3371394</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample176">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>T1116</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample194">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>to</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample122">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>overlay</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Signature"/>
+    <pe:similarityScore>0.29094246</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample144">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>filetype</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.33442196</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample210">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>reported_checksum</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.825354</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample84">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.73179543</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample23">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>unknown section</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.7501773</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample100">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pretty_value</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.51324064</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample34">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>process</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample143">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>source_url</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#url_strings_count"/>
+    <pe:similarityScore>0.6046271</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample111">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>encryptedbuffers</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample166">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>binary</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample9">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>mutexes</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.43639028</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample61">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dirents</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample51">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>virtual_size</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.4630041</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample4">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>category</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.30518863</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample167">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>started_on</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.4242183</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample21">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>src_ip</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample193">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>delete_files</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.7923918</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample76">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>package</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.5254579</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample39">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>icmp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.2521199</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample56">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dns</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample81">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>data</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.48469657</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample11">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>fileinfo</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample146">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>answers</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.382699</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample229">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>guest_signers</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Relocations"/>
+    <pe:similarityScore>0.44480732</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample250">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>rcode</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample52">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>size</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.48983866</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample110">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ttl</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.24807319</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample281">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>new_data</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.6206347</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample79">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>WindowsPath</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample182">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>CommandLine</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.5377739</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample283">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>calls</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample181">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>references</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.52226055</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample24">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>icon_fuzzy</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4397071</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample63">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>id</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample272">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>parent_sample</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.4218674</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample94">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>T1057</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample106">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tlsh</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample22">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>alert</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.39457506</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample59">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>status</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.43011674</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample255">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>process_name</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample8">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>entropy</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.78536075</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample31">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>smtp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.502516</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample78">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>errors</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.3737152</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample211">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ra</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample168">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>grouped</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.47153172</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample257">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>resolved_apis</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.19533561</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample137">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>versioninfo</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample222">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ttps</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample68">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>http</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample69">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>meta</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.2881691</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample282">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pe</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample162">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>info</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.53056246</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample219">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>crc32</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.334593</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample36">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>process_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.60410255</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample118">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>icon_hash</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.33448663</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample248">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dll</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4943967</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample221">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>offset</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.5260313</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample252">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>RegisteredOrganization</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample172">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>threads</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.39059937</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample98">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>exported_dll_name</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.41315234</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample241">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>duration</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.59761703</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample41">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>malscore</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample217">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>label</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.29812238</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample190">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>imports</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.79971504</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample180">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>time</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.48432985</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample270">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>user_id</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.44823018</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample207">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>shutdown_on</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Relocations"/>
+    <pe:similarityScore>0.33895856</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample225">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>rrname</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample19">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>yara</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.19540052</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample185">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sha1</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.334593</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample132">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>3988</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.10785216</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample271">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>x86</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4943967</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample18">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pretty_return</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.45182</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample189">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pid</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample244">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>country_name</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.56295025</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample57">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>rd</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample260">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>type</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.48432985</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample198">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>object</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>1.0000002</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample153">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>executed_commands</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.46680292</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample266">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>severity</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#mz_count"/>
+    <pe:similarityScore>0.45361444</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample275">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_error_desc</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#url_strings_count"/>
+    <pe:similarityScore>0.5256216</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample46">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>read_keys</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.7356743</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample101">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pdbpath</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample136">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>addresses</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.39457506</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample2">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>alerts</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.39457506</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample173">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>network</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.5041899</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample30">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>flags</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.7978713</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample16">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>osversion</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample74">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dest_port</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.79353565</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample184">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>peid_signatures</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Signature"/>
+    <pe:similarityScore>0.99999994</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample119">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>parentcaller</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample138">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tlp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.25569493</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample247">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>CAPE</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.45449078</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample152">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>anomaly</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.5056193</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample179">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>eid</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.14263207</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample108">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>return</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.38903302</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample87">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>referrer</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.31638592</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample3">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>srcport</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample1">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>characteristics_raw</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.41640332</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample83">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>debug</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample200">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>command</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.5377739</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample218">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dstport</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample135">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pcap_cnt</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.26707825</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample123">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_timestamp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.682601</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample151">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>file_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_file_feature"/>
+    <pe:similarityScore>0.65485275</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample243">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>clamav</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.40514627</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample89">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>actual_checksum</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.8013007</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample96">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ip</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample85">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>machine</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.44823018</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample7">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>DynamicLoader</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample86">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>perf</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.52641857</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample125">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>anti_sandbox1</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.6492033</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample267">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>name</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample47">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>language</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Executable"/>
+    <pe:similarityScore>0.3052458</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample161">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sha256</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.334593</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample128">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>version</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#mz_count"/>
+    <pe:similarityScore>0.5597395</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample216">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>procmemory</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample71">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ProductName</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample50">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tls_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.65527123</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample124">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>created_services</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.54038346</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample88">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>http_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.8711744</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample142">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>entrypoint</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.25256264</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample27">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>authenticode error</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.3737152</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample103">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>license</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Relocations"/>
+    <pe:similarityScore>0.31641173</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample199">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>raw_address</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.42256552</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample25">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>subject</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.52226055</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample13">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>process_id</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample178">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>started</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.4242183</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample171">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>guest_paths</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.54780525</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample276">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_sha1</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.26072058</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample55">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ep_bytes</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample249">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>rdata</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample107">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>length</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.48983866</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample246">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>parent_id</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.3006698</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample253">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>srcip</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample14">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>cape_type_code</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.5482123</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample269">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>log</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.43533528</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample139">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>shrike_sid</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.22437713</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample58">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>api</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample29">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>moduleaddress</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample203">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>processing</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample120">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>processes</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample114">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sublanguage</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample155">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>email</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.502516</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample156">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>size_of_data</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.5508421</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample235">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>thread_id</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.39059937</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample157">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>UserName</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.31638592</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample163">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>route</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.3496412</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample91">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dstip</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample231">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>description</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.52226055</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample177">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>confidence</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Symbols"/>
+    <pe:similarityScore>0.3431608</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample188">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>udp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.24807319</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample226">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>curtain</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Signature"/>
+    <pe:similarityScore>0.99999994</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample15">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>module</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample206">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>started_services</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#exports_count"/>
+    <pe:similarityScore>0.37358445</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample264">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tls</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample279">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>options</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#imports_count"/>
+    <pe:similarityScore>0.5254579</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample66">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ended</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.46107623</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample262">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>serial</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Executable"/>
+    <pe:similarityScore>0.25003552</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample160">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>contenttype</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample37">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dst</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.24807319</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample148">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>cape_type</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.5935393</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample40">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tx_id</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample10">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>decrypt_config2</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>1.0000002</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample254">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ua</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample129">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>shrike_msg</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.27763227</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample109">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>reporting</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_feature"/>
+    <pe:similarityScore>0.46859986</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample233">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>imported_dll_count</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#mz_count"/>
+    <pe:similarityScore>0.5870291</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample208">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>processtree</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample67">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>SystemVolumeSerialNumber</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample134">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>copy</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.4403212</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample277">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>proto</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.43639028</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample150">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>weight</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.48983866</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample242">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>characteristics</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_feature"/>
+    <pe:similarityScore>0.38441214</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample196">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sha3_384</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.114609845</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample60">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>children</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.31230974</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample197">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>value</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#url_strings_count"/>
+    <pe:similarityScore>0.45994422</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample215">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>MachineGUID</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample245">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pcap_sha256</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.36540648</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample127">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>hosts</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Exports"/>
+    <pe:similarityScore>0.42492887</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample113">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>T1045</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample191">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_error</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.28671473</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample53">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dport</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample92">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>eve_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.60906065</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample202">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>qr</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample42">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_signers</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Relocations"/>
+    <pe:similarityScore>0.34501234</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample232">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>summary</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.5610696</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample133">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>custom</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_feature"/>
+    <pe:similarityScore>0.41897976</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample274">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>payloads</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_file_feature"/>
+    <pe:similarityScore>0.26190847</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample158">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>resources</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>1.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample256">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>regkey</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample131">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>pathtofile</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample228">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>imphash</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample212">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>section</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.9999998</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample263">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ssh</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample48">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>aux_valid</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.30569854</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample280">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>procdump</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample32">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>digital_signers</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Relocations"/>
+    <pe:similarityScore>0.39135522</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample6">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>iplookups</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample121">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>tcp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.2521199</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample236">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ja3</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample12">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>detections2pid</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample75">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>exports</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Exports"/>
+    <pe:similarityScore>0.99999994</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample105">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>alert_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.66053873</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample140">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>event</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.45245454</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample223">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dropped</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.2502249</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample80">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>delete_keys</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#registry_strings_count"/>
+    <pe:similarityScore>0.51068723</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample26">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>cape_yara</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.2587837</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample82">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>irc</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.2521199</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample73">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dns_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.6908111</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample159">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>fingerprint</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.34734237</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample141">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>copyright</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.20782204</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample90">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ssh_log_full_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.6908111</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample93">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>Process</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Resources"/>
+    <pe:similarityScore>0.53448963</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample175">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>shrike_refer</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#section_entropy"/>
+    <pe:similarityScore>0.28240693</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample224">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>domainlookups</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample17">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>domains</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.41328162</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample268">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>repeated</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.30222273</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample35">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>signatures</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Signature"/>
+    <pe:similarityScore>0.99999994</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample104">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>shrike_url</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#url_strings_count"/>
+    <pe:similarityScore>0.45897356</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample28">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>environ</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.2482424</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample220">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>write_files</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.8301429</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample70">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>virtual_address</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Cryptography"/>
+    <pe:similarityScore>0.46123952</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample169">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>address</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.39457506</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample265">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>malfamily_tag</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.33120504</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample5">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>read_files</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.8348518</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample115">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>RegisteredOwner</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample214">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>T1129</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample174">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>SystemVolumeGUID</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample273">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>enhanced</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_feature"/>
+    <pe:similarityScore>0.7577825</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample99">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>distributed</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.6462322</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample38">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>first_seen</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#symbols_count"/>
+    <pe:similarityScore>0.5084499</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample240">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>families</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Decrypt"/>
+    <pe:similarityScore>0.25719145</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample54">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>icon</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4390141</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample154">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>manager</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Exports"/>
+    <pe:similarityScore>0.402909</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample77">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>event_type</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#has_section_flag"/>
+    <pe:similarityScore>0.503722</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample145">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>http_method</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.6258289</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample45">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ComputerName</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#CLR"/>
+    <pe:similarityScore>0.4090287</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample33">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>content</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.9999998</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample97">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>strings</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample165">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>rrtype</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample234">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>timestamp</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample239">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>src_port</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.79353565</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample204">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>write_keys</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Networking"/>
+    <pe:similarityScore>0.5188891</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample102">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>author</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Section"/>
+    <pe:similarityScore>0.9999998</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample183">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>static</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.4394867</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample201">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>dest_ip</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.667433</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample213">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ikkzowxr.exe</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4943967</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample149">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>file</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Readable"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample95">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>Hit</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.45205352</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample230">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>suricata</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample117">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>hostname</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#AddUser"/>
+    <pe:similarityScore>0.43639028</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample259">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>timeout</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#mz_count"/>
+    <pe:similarityScore>0.2790235</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample147">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>md5</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.9999999</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample49">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sni</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#TLS"/>
+    <pe:similarityScore>0.3442509</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample237">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>peb_parsing64</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.13183323</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample261">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>imagebase</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample112">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>sport</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Action"/>
+    <pe:similarityScore>0.4756123</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample130">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>module_path</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#path_strings_count"/>
+    <pe:similarityScore>0.60410255</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample43">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>A</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample44">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>ssdeep</pe:originalField>
+    <pe:mappedTo>None</pe:mappedTo>
+    <pe:similarityScore rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</pe:similarityScore>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://orbis-security.com/pe-malware-ontology#Sample65">
+    <rdf:type rdf:resource="https://orbis-security.com/pe-malware-ontology#MappedEntity"/>
+    <pe:originalField>00A35F1E23CEF590BDFD.exe</pe:originalField>
+    <pe:mappedTo rdf:resource="https://orbis-security.com/pe-malware-ontology#Debug"/>
+    <pe:similarityScore>0.4943967</pe:similarityScore>
+  </rdf:Description>
+</rdf:RDF>
